@@ -87,7 +87,7 @@
         <!-- versions of test dependencies -->
         <junit4.version>4.13.1</junit4.version>
         <junit5.version>5.3.1</junit5.version>
-        <testng.version>6.14.3</testng.version>
+        <testng.version>7.4.0</testng.version>
 
         <hamcrest.version>2.2</hamcrest.version>
         <mockito.version>2.28.2</mockito.version>
